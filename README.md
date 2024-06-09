@@ -27,7 +27,7 @@ Before starting, ensure the workstation is powered off and unplugged to avoid an
 
 **Step 3: Open the Case**  
 Remove the side panels of the case to access the interior. Most cases have screws at the back that need to be removed.  
-![Step 3 - Open the case](images\PlaceOnSide.png)
+![Step 3 - Open the case](InstallMotherboard\PlaceOnSide.png)
 
 **Step 4: Install the I/O Shield**  
 Insert the I/O shield (the metal plate that comes with the motherboard) into the back of the case. It snaps into place.  
@@ -37,7 +37,7 @@ Place the motherboard into the case, aligning it with the standoffs (pre-install
 
 **Step 6: Secure the Motherboard**  
 Use screws to secure the motherboard to the standoffs. Ensure the motherboard is firmly in place but be careful not to overtighten the screws.  
-![Step 6 - Secure the Motherboard](images\SecureMotherboard.png)
+![Step 6 - Secure the Motherboard](images\InstallMotherboard\SecureMotherboard.png)
 
 ### 4. Connecting the Case Front Panel Headers and I/O Ports
 
